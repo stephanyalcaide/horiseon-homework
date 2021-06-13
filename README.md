@@ -10,6 +10,7 @@ added the atl and semantic elments
 added notes about images 
 
 # Screen shot of app
-
+Screen Shot 2021-06-12 at 11.03.12 PM![image](https://user-images.githubusercontent.com/81532183/121794990-7adff380-cbd2-11eb-8686-1599d0d49aaa.png)
 
 # Created by:
+stephany alcaide
